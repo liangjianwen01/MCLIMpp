@@ -1,0 +1,58 @@
+{
+    "Left Telencephalon": {
+        "Shape": "Large hemispheric structure with folded cortical and subcortical regions",
+        "Location": "Left cerebral hemisphere anterior and superior to diencephalon",
+        "Intensity_Profile": "Gray cortex darker than subcortical white matter on T1"
+    },
+    "Right Telencephalon": {
+        "Shape": "Large hemispheric structure with folded cortical and subcortical regions",
+        "Location": "Right cerebral hemisphere anterior and superior to diencephalon",
+        "Intensity_Profile": "Gray cortex darker than subcortical white matter on T1"
+    },
+    "Left Diencephalon": {
+        "Shape": "Central deep gray region with thalamus and hypothalamus",
+        "Location": "Left midline zone between telencephalon and mesencephalon",
+        "Intensity_Profile": "Deep gray intermediate intensity slightly darker than adjacent white matter"
+    },
+    "Right Diencephalon": {
+        "Shape": "Central deep gray region with thalamus and hypothalamus",
+        "Location": "Right midline zone between telencephalon and mesencephalon",
+        "Intensity_Profile": "Deep gray intermediate intensity slightly darker than adjacent white matter"
+    },
+    "Left Mesencephalon": {
+        "Shape": "Compact cylindrical midbrain segment with peduncles and tectum",
+        "Location": "Left upper brainstem between diencephalon and pons",
+        "Intensity_Profile": "Mixed T1 signal white tracts bright relative to gray nuclei"
+    },
+    "Right Mesencephalon": {
+        "Shape": "Compact cylindrical midbrain segment with peduncles and tectum",
+        "Location": "Right upper brainstem between diencephalon and pons",
+        "Intensity_Profile": "Mixed T1 signal white tracts bright relative to gray nuclei"
+    },
+    "Left Metencephalon": {
+        "Shape": "Rounded posterior fossa structure including cerebellum and pons",
+        "Location": "Left dorsal brainstem region posterior to mesencephalon",
+        "Intensity_Profile": "Cerebellar cortex hypointense to deep white matter on T1"
+    },
+    "Right Metencephalon": {
+        "Shape": "Rounded posterior fossa structure including cerebellum and pons",
+        "Location": "Right dorsal brainstem region posterior to mesencephalon",
+        "Intensity_Profile": "Cerebellar cortex hypointense to deep white matter on T1"
+    },
+    "Left Myelencephalon": {
+        "Shape": "Tapered caudal brainstem continuous with spinal cord",
+        "Location": "Left medullary region inferior to pons",
+        "Intensity_Profile": "Intermediate T1 signal pyramids brighter than gray nuclei"
+    },
+    "Right Myelencephalon": {
+        "Shape": "Tapered caudal brainstem continuous with spinal cord",
+        "Location": "Right medullary region inferior to pons",
+        "Intensity_Profile": "Intermediate T1 signal pyramids brighter than gray nuclei"
+    },
+    "Cerebrospinal Fluid": {
+        "Shape": "Clear fluid filling ventricular and subarachnoid spaces",
+        "Location": "Surrounds brain and spinal cord within ventricles and cisterns",
+        "Intensity_Profile": "CSF hypointense on T1 hyperintense on T2 forming fluid boundaries"
+    }           
+}
+

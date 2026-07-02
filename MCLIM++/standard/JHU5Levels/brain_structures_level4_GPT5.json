@@ -1,0 +1,564 @@
+{
+    "Left Superior Frontal Gyrus (Posterior Segment)": {
+        "Shape": "Elongated gyrus with medial convexity",
+        "Location": "Posterior superior frontal lobe near midline anterior to left precentral gyrus",
+        "Intensity_Profile": "Cortical gray matter slightly darker than white matter on T1"
+    },
+    "Right Superior Frontal Gyrus (Posterior Segment)": {
+        "Shape": "Elongated gyrus with lateral curvature",
+        "Location": "Posterior superior frontal lobe lateral to midline anterior to right precentral gyrus",
+        "Intensity_Profile": "Cortical gray matter slightly darker than white matter on T1"
+    },
+    "Left Middle Frontal Gyrus (Dorsal Prefrontal Cortex)": {
+        "Shape": "Broad gyrus with smooth dorsal contour",
+        "Location": "Mid frontal lobe medial to left inferior frontal sulcus",
+        "Intensity_Profile": "Gray matter mildly hypointense to white matter on T1"
+    },
+    "Right Middle Frontal Gyrus (Dorsal Prefrontal Cortex)": {
+        "Shape": "Broad gyrus with deeper inferior sulcus",
+        "Location": "Mid frontal lobe lateral to right superior frontal sulcus",
+        "Intensity_Profile": "Gray matter mildly hypointense to white matter on T1"
+    },
+    "Left Inferior Frontal Gyrus": {
+        "Shape": "Trilobed gyrus with prominent opercular part",
+        "Location": "Inferior frontal lobe anterior to left precentral gyrus",
+        "Intensity_Profile": "Gray cortex slightly darker than white matter on T1"
+    },
+    "Right Inferior Frontal Gyrus": {
+        "Shape": "Trilobed gyrus with expanded orbital part",
+        "Location": "Inferior frontal lobe anterior to right precentral gyrus",
+        "Intensity_Profile": "Gray cortex slightly darker than white matter on T1"
+    },
+    "Left Orbital Frontal Gyrus": {
+        "Shape": "Folded orbital gyri with subtle medial curvature",
+        "Location": "Inferior frontal lobe above left orbit near olfactory sulcus",
+        "Intensity_Profile": "Cortical gray matter slightly hypointense to white matter on T1"
+    },
+    "Right Orbital Frontal Gyrus": {
+        "Shape": "Folded orbital gyri with broader lateral convolution",
+        "Location": "Inferior frontal lobe above right orbit near frontopolar region",
+        "Intensity_Profile": "Cortical gray matter slightly hypointense to white matter on T1"
+    },
+    "Left Rectus Gyrus": {
+        "Shape": "Straight narrow gyrus with medial alignment",
+        "Location": "Medial orbital surface adjacent to left olfactory sulcus",
+        "Intensity_Profile": "Cortical gray slightly darker than white matter on T1"
+    },
+    "Right Rectus Gyrus": {
+        "Shape": "Straight narrow gyrus with lateral alignment",
+        "Location": "Medial orbital surface adjacent to right olfactory sulcus",
+        "Intensity_Profile": "Cortical gray slightly darker than white matter on T1"
+    },
+    "Left Postcentral Gyrus": {
+        "Shape": "Prominent longitudinal sensory gyrus",
+        "Location": "Parietal lobe posterior to central sulcus left side",
+        "Intensity_Profile": "Cortical gray hypointense to subcortical white matter on T1"
+    },
+    "Right Postcentral Gyrus": {
+        "Shape": "Prominent longitudinal sensory gyrus",
+        "Location": "Parietal lobe posterior to central sulcus right side",
+        "Intensity_Profile": "Cortical gray hypointense to subcortical white matter on T1"
+    },
+    "Left Precentral Gyrus": {
+        "Shape": "Long continuous motor gyrus",
+        "Location": "Frontal lobe anterior to central sulcus left hemisphere",
+        "Intensity_Profile": "Motor cortex gray slightly darker than adjacent white matter on T1"
+    },
+    "Right Precentral Gyrus": {
+        "Shape": "Long continuous motor gyrus",
+        "Location": "Frontal lobe anterior to central sulcus right hemisphere",
+        "Intensity_Profile": "Motor cortex gray slightly darker than adjacent white matter on T1"
+    },
+    "Left Superior Parietal Gyrus": {
+        "Shape": "Large elongated gyrus with medial expansion",
+        "Location": "Superior parietal lobe posterior to left postcentral gyrus",
+        "Intensity_Profile": "Cortical gray slightly darker than deep white matter on T1"
+    },
+    "Right Superior Parietal Gyrus": {
+        "Shape": "Large elongated gyrus with lateral spread",
+        "Location": "Superior parietal lobe posterior to right postcentral gyrus",
+        "Intensity_Profile": "Cortical gray slightly darker than deep white matter on T1"
+    },
+    "Left Supramarginal Gyrus": {
+        "Shape": "Curved gyrus around posterior Sylvian fissure",
+        "Location": "Inferior parietal lobe superior to left superior temporal gyrus",
+        "Intensity_Profile": "Gray matter distinct from adjacent white matter on T1"
+    },
+    "Right Supramarginal Gyrus": {
+        "Shape": "Curved gyrus around posterior Sylvian fissure",
+        "Location": "Inferior parietal lobe superior to right superior temporal gyrus",
+        "Intensity_Profile": "Gray matter distinct from adjacent white matter on T1"
+    },
+    "Left Angular Gyrus": {
+        "Shape": "Triangular cortical area with medial inclination",
+        "Location": "Posterior inferior parietal lobe near left temporooccipital junction",
+        "Intensity_Profile": "Cortical gray slightly darker than white matter on T1"
+    },
+    "Right Angular Gyrus": {
+        "Shape": "Triangular cortical area with lateral inclination",
+        "Location": "Posterior inferior parietal lobe near right temporooccipital junction",
+        "Intensity_Profile": "Cortical gray slightly darker than white matter on T1"
+    },
+    "Left Precuneus": {
+        "Shape": "Quadrilateral cortical region with medial expansion",
+        "Location": "Medial parietal lobe between cingulate and parietooccipital sulci left side",
+        "Intensity_Profile": "Cortical gray mildly hypointense to white matter on T1"
+    },
+    "Right Precuneus": {
+        "Shape": "Quadrilateral cortical region with lateral contour",
+        "Location": "Medial parietal lobe between cingulate and parietooccipital sulci right side",
+        "Intensity_Profile": "Cortical gray mildly hypointense to white matter on T1"
+    },
+    "Left Superior Temporal Gyrus": {
+        "Shape": "Narrow gyrus with sharper posterior turn",
+        "Location": "Superior temporal lobe below left lateral sulcus",
+        "Intensity_Profile": "Cortical gray darker than white matter on T1"
+    },
+    "Right Superior Temporal Gyrus": {
+        "Shape": "Narrow gyrus with smoother posterior curve",
+        "Location": "Superior temporal lobe below right lateral sulcus",
+        "Intensity_Profile": "Cortical gray darker than white matter on T1"
+    },
+    "Left Middle Temporal Gyrus": {
+        "Shape": "Elongated ribbonlike gyrus thinner anteriorly",
+        "Location": "Middle temporal lobe between left superior and inferior temporal sulci",
+        "Intensity_Profile": "Gray matter slightly darker than white matter on T1"
+    },
+    "Right Middle Temporal Gyrus": {
+        "Shape": "Elongated ribbonlike gyrus broader anteriorly",
+        "Location": "Middle temporal lobe between right superior and inferior temporal sulci",
+        "Intensity_Profile": "Gray matter slightly darker than white matter on T1"
+    },
+    "Left Inferior Temporal Gyrus": {
+        "Shape": "Irregular gyrus with sharper lateral margin",
+        "Location": "Inferior temporal surface lateral to left fusiform gyrus",
+        "Intensity_Profile": "Cortical gray darker than subcortical white matter on T1"
+    },
+    "Right Inferior Temporal Gyrus": {
+        "Shape": "Irregular gyrus with smoother lateral curvature",
+        "Location": "Inferior temporal surface lateral to right fusiform gyrus",
+        "Intensity_Profile": "Cortical gray darker than subcortical white matter on T1"
+    },
+
+    "Left Parahippocampal Gyrus": {
+        "Shape": "Elongated narrow gyrus with sharper medial curve",
+        "Location": "Medial temporal lobe paralleling left hippocampal formation",
+        "Intensity_Profile": "Cortical gray slightly darker than white matter on T1"
+    },
+    "Right Parahippocampal Gyrus": {
+        "Shape": "Elongated narrow gyrus with smoother medial curve",
+        "Location": "Medial temporal lobe paralleling right hippocampal formation",
+        "Intensity_Profile": "Cortical gray slightly darker than white matter on T1"
+    },
+    "Left Fusiform Gyrus": {
+        "Shape": "Elongated fusiform ridge with medial tapering",
+        "Location": "Basal temporal surface between left collateral and occipitotemporal sulci",
+        "Intensity_Profile": "Gray matter subtly darker than subcortical white matter on T1"
+    },
+    "Right Fusiform Gyrus": {
+        "Shape": "Elongated fusiform ridge with lateral widening",
+        "Location": "Basal temporal surface between right collateral and occipitotemporal sulci",
+        "Intensity_Profile": "Gray matter subtly darker than subcortical white matter on T1"
+    },
+    "Left Occipital Lobe": {
+        "Shape": "Broad cortical area with stronger medial curvature",
+        "Location": "Posterior pole of left cerebral hemisphere covering medial and lateral surfaces",
+        "Intensity_Profile": "Cortex hypointense to underlying white matter on T1"
+    },
+    "Right Occipital Lobe": {
+        "Shape": "Broad cortical area with more lateral extension",
+        "Location": "Posterior pole of right cerebral hemisphere covering medial and lateral surfaces",
+        "Intensity_Profile": "Cortex hypointense to underlying white matter on T1"
+    },
+    "Left Cingulate Gyrus": {
+        "Shape": "Arched gyrus with pronounced anterior curvature",
+        "Location": "Medial hemisphere above left corpus callosum",
+        "Intensity_Profile": "Cortical gray slightly darker than white matter on T1"
+    },
+    "Right Cingulate Gyrus": {
+        "Shape": "Arched gyrus with smoother anterior curvature",
+        "Location": "Medial hemisphere above right corpus callosum",
+        "Intensity_Profile": "Cortical gray slightly darker than white matter on T1"
+    },
+    "Left Insula": {
+        "Shape": "Triangular cortical region with distinct short gyri",
+        "Location": "Deep within left lateral sulcus beneath frontal and temporal opercula",
+        "Intensity_Profile": "Gray matter darker than insular white matter on T1"
+    },
+    "Right Insula": {
+        "Shape": "Triangular cortical region with prominent long gyri",
+        "Location": "Deep within right lateral sulcus beneath frontal and temporal opercula",
+        "Intensity_Profile": "Gray matter darker than insular white matter on T1"
+    },
+    "Left Amygdala": {
+        "Shape": "Almond shaped gray matter cluster",
+        "Location": "Anteromedial temporal lobe anterior to left hippocampal head",
+        "Intensity_Profile": "Deep gray signal slightly darker than white matter on T1"
+    },
+    "Right Amygdala": {
+        "Shape": "Almond shaped gray matter cluster",
+        "Location": "Anteromedial temporal lobe anterior to right hippocampal head",
+        "Intensity_Profile": "Deep gray signal slightly darker than white matter on T1"
+    },
+    "Left Hippocampus": {
+        "Shape": "Curved seahorse shaped gray matter",
+        "Location": "Medial temporal lobe forming floor of left temporal horn",
+        "Intensity_Profile": "Gray signal with bright alveus rim on T1"
+    },
+    "Right Hippocampus": {
+        "Shape": "Curved seahorse shaped gray matter",
+        "Location": "Medial temporal lobe forming floor of right temporal horn",
+        "Intensity_Profile": "Gray signal with bright alveus rim on T1"
+    },
+    "Left Caudate Nucleus": {
+        "Shape": "C shaped deep gray structure with rounded head",
+        "Location": "Left basal ganglia adjacent to lateral ventricle",
+        "Intensity_Profile": "Deep gray signal darker than white matter on T1"
+    },
+    "Right Caudate Nucleus": {
+        "Shape": "C shaped deep gray structure with slender tail",
+        "Location": "Right basal ganglia adjacent to lateral ventricle",
+        "Intensity_Profile": "Deep gray signal darker than white matter on T1"
+    },
+    "Left Putamen": {
+        "Shape": "Ovoid lateral lentiform nucleus",
+        "Location": "Lateral basal ganglia lateral to left internal capsule",
+        "Intensity_Profile": "Deep gray slightly darker than white matter on T1"
+    },
+    "Right Putamen": {
+        "Shape": "Ovoid lateral lentiform nucleus",
+        "Location": "Lateral basal ganglia lateral to right internal capsule",
+        "Intensity_Profile": "Deep gray slightly darker than white matter on T1"
+    },
+    "Left Globus Pallidus": {
+        "Shape": "Medial wedge shaped nucleus with laminar bands",
+        "Location": "Medial to putamen lateral to left internal capsule",
+        "Intensity_Profile": "Gray matter darker than putamen with thin bright laminae on T1"
+    },
+    "Right Globus Pallidus": {
+        "Shape": "Medial wedge shaped nucleus with laminar bands",
+        "Location": "Medial to putamen lateral to right internal capsule",
+        "Intensity_Profile": "Gray matter darker than putamen with thin bright laminae on T1"
+    },
+    "Left Thalamus": {
+        "Shape": "Ovoid deep gray mass",
+        "Location": "Diencephalon lateral to left third ventricle",
+        "Intensity_Profile": "Gray signal slightly darker than perithalamic white matter on T1"
+    },
+    "Right Thalamus": {
+        "Shape": "Ovoid deep gray mass",
+        "Location": "Diencephalon lateral to right third ventricle",
+        "Intensity_Profile": "Gray signal slightly darker than perithalamic white matter on T1"
+    },
+    "Left Basal Forebrain": {
+        "Shape": "Irregular ventral gray region",
+        "Location": "Inferior frontal region around left septal area",
+        "Intensity_Profile": "Deep gray signal darker than nearby white matter on T1"
+    },
+    "Right Basal Forebrain": {
+        "Shape": "Irregular ventral gray region",
+        "Location": "Inferior frontal region around right septal area",
+        "Intensity_Profile": "Deep gray signal darker than nearby white matter on T1"
+    },
+    "Left Midbrain": {
+        "Shape": "Compact brainstem segment with prominent cerebral peduncle",
+        "Location": "Between diencephalon and pons left half",
+        "Intensity_Profile": "Mixed T1 signal white matter tracts brighter than deep gray"
+    },
+    "Right Midbrain": {
+        "Shape": "Compact brainstem segment with visible tectal plate",
+        "Location": "Between diencephalon and pons right half",
+        "Intensity_Profile": "Mixed T1 signal white matter tracts brighter than deep gray"
+    },
+    "Left Cerebellum Gray Matter": {
+        "Shape": "Thin folial cortical layer with narrow vermian folds",
+        "Location": "Left cerebellar hemisphere and vermis cortex",
+        "Intensity_Profile": "Cerebellar cortex darker than central white matter on T1"
+    },
+    "Right Cerebellum Gray Matter": {
+        "Shape": "Thin folial cortical layer with broader lateral folds",
+        "Location": "Right cerebellar hemisphere and vermis cortex",
+        "Intensity_Profile": "Cerebellar cortex darker than central white matter on T1"
+    },
+    "Left Pons": {
+        "Shape": "Rounded ventral brainstem segment",
+        "Location": "Left hemipons between midbrain and medulla anterior to fourth ventricle",
+        "Intensity_Profile": "Intermediate T1 signal pontine fibers slightly brighter than nuclei"
+    },
+    "Right Pons": {
+        "Shape": "Rounded ventral brainstem segment",
+        "Location": "Right hemipons between midbrain and medulla anterior to fourth ventricle",
+        "Intensity_Profile": "Intermediate T1 signal pontine fibers slightly brighter than nuclei"
+    },
+    "Left Medulla Oblongata": {
+        "Shape": "Tapered caudal brainstem segment",
+        "Location": "Left medulla between pons and cervical cord ventral to fourth ventricle",
+        "Intensity_Profile": "Intermediate T1 signal pyramids brighter than surrounding nuclei"
+    },
+    "Right Medulla Oblongata": {
+        "Shape": "Tapered caudal brainstem segment",
+        "Location": "Right medulla between pons and cervical cord ventral to fourth ventricle",
+        "Intensity_Profile": "Intermediate T1 signal pyramids brighter than surrounding nuclei"
+    },
+    "Left Core Frontal White Matter": {
+        "Shape": "Compact deep frontal white matter mass",
+        "Location": "Left frontal centrum semiovale near anterior horn",
+        "Intensity_Profile": "Hyperintense on T1 brighter than cortical gray"
+    },
+    "Right Core Frontal White Matter": {
+        "Shape": "Compact deep frontal white matter mass",
+        "Location": "Right frontal centrum semiovale near anterior horn",
+        "Intensity_Profile": "Hyperintense on T1 brighter than cortical gray"
+    },
+    "Left Core Posterior White Matter": {
+        "Shape": "Compact posterior deep white matter bundle",
+        "Location": "Left parietal occipital centrum semiovale around atrium",
+        "Intensity_Profile": "Homogeneously bright on T1 relative to gray"
+    },
+    "Right Core Posterior White Matter": {
+        "Shape": "Compact posterior deep white matter bundle",
+        "Location": "Right parietal occipital centrum semiovale around atrium",
+        "Intensity_Profile": "Homogeneously bright on T1 relative to gray"
+    },
+    "Left Genu of Corpus Callosum": {
+        "Shape": "Anterior curved callosal segment with dense fibers",
+        "Location": "Left anterior midline above frontal horns",
+        "Intensity_Profile": "Bright on T1 due to compact myelination"
+    },
+    "Right Genu of Corpus Callosum": {
+        "Shape": "Anterior curved callosal segment with dense fibers",
+        "Location": "Right anterior midline above frontal horns",
+        "Intensity_Profile": "Bright on T1 due to compact myelination"
+    },
+    "Left Body of Corpus Callosum": {
+        "Shape": "Elongated central callosal plate",
+        "Location": "Left midline tract over lateral ventricles",
+        "Intensity_Profile": "Hyperintense on T1 from compact myelinated fibers"
+    },
+    "Right Body of Corpus Callosum": {
+        "Shape": "Elongated central callosal plate",
+        "Location": "Right midline tract over lateral ventricles",
+        "Intensity_Profile": "Hyperintense on T1 from compact myelinated fibers"
+    },
+    "Left Splenium of Corpus Callosum": {
+        "Shape": "Thick posterior callosal segment",
+        "Location": "Left posterior midline above atrium",
+        "Intensity_Profile": "Markedly bright on T1 due to dense myelination"
+    },
+    "Right Splenium of Corpus Callosum": {
+        "Shape": "Thick posterior callosal segment",
+        "Location": "Right posterior midline above atrium",
+        "Intensity_Profile": "Markedly bright on T1 due to dense myelination"
+    },
+    "Left Retrolenticular Part of Internal Capsule": {
+        "Shape": "Flat posterior capsular sheet",
+        "Location": "Left deep white matter posterior to lentiform nucleus",
+        "Intensity_Profile": "Hyperintense on T1 relative to basal ganglia"
+    },
+    "Right Retrolenticular Part of Internal Capsule": {
+        "Shape": "Flat posterior capsular sheet",
+        "Location": "Right deep white matter posterior to lentiform nucleus",
+        "Intensity_Profile": "Hyperintense on T1 relative to basal ganglia"
+    },
+    "Left Anterior Limb of Internal Capsule": {
+        "Shape": "Anterior V shaped limb",
+        "Location": "Left deep white matter between caudate head and lentiform nucleus",
+        "Intensity_Profile": "Bright on T1 with sharp boundaries"
+    },
+    "Right Anterior Limb of Internal Capsule": {
+        "Shape": "Anterior V shaped limb",
+        "Location": "Right deep white matter between caudate head and lentiform nucleus",
+        "Intensity_Profile": "Bright on T1 with sharp boundaries"
+    },
+    "Left Posterior Limb of Internal Capsule": {
+        "Shape": "Posterior limb of V shaped capsule",
+        "Location": "Left deep white matter between thalamus and lentiform nucleus",
+        "Intensity_Profile": "Bright on T1 distinct from adjacent gray"
+    },
+    "Right Posterior Limb of Internal Capsule": {
+        "Shape": "Posterior limb of V shaped capsule",
+        "Location": "Right deep white matter between thalamus and lentiform nucleus",
+        "Intensity_Profile": "Bright on T1 distinct from adjacent gray"
+    },
+    "Left Core Inferior White Matter": {
+        "Shape": "Compact inferior deep white matter region",
+        "Location": "Left temporal stem and basal frontal white matter",
+        "Intensity_Profile": "Uniformly hyperintense on T1 relative to gray"
+    },
+    "Right Core Inferior White Matter": {
+        "Shape": "Compact inferior deep white matter region",
+        "Location": "Right temporal stem and basal frontal white matter",
+        "Intensity_Profile": "Uniformly hyperintense on T1 relative to gray"
+    },
+    "Left Cingulum (Cingulate Gyrus)": {
+        "Shape": "Curved association bundle arching above corpus callosum",
+        "Location": "Left deep white matter within cingulate gyrus",
+        "Intensity_Profile": "Slender tract bright on T1"
+    },
+    "Right Cingulum (Cingulate Gyrus)": {
+        "Shape": "Curved association bundle arching above corpus callosum",
+        "Location": "Right deep white matter within cingulate gyrus",
+        "Intensity_Profile": "Slender tract bright on T1"
+    },
+    "Left Cingulum (Hippocampus)": {
+        "Shape": "Thin parahippocampal cingulum segment",
+        "Location": "Left parahippocampal white matter continuous with cingulum",
+        "Intensity_Profile": "Fine linear bundle hyperintense on T1"
+    },
+    "Right Cingulum (Hippocampus)": {
+        "Shape": "Thin parahippocampal cingulum segment",
+        "Location": "Right parahippocampal white matter continuous with cingulum",
+        "Intensity_Profile": "Fine linear bundle hyperintense on T1"
+    },
+    "Left Fornix/Caudate Tail": {
+        "Shape": "Slender curved tract following caudate tail",
+        "Location": "Left roof of temporal horn toward fornix",
+        "Intensity_Profile": "Bright on T1 relative to gray matter"
+    },
+    "Right Fornix/Caudate Tail": {
+        "Shape": "Slender curved tract following caudate tail",
+        "Location": "Right roof of temporal horn toward fornix",
+        "Intensity_Profile": "Bright on T1 relative to gray matter"
+    },
+    "Left Fornix (Column and Body)": {
+        "Shape": "Thin curved midline white matter tract",
+        "Location": "Extends from left hippocampus to septal area",
+        "Intensity_Profile": "Hyperintense on T1 relative to gray matter"
+    },
+    "Right Fornix (Column and Body)": {
+        "Shape": "Thin curved midline white matter tract",
+        "Location": "Extends from right hippocampus to septal area",
+        "Intensity_Profile": "Hyperintense on T1 relative to gray matter"
+    },
+    "Left Peripheral Parietal White Matter": {
+        "Shape": "Diffuse subcortical white matter zone",
+        "Location": "Beneath left parietal cortex lateral to ventricle",
+        "Intensity_Profile": "Uniformly bright on T1 compared to cortex"
+    },
+    "Right Peripheral Parietal White Matter": {
+        "Shape": "Diffuse subcortical white matter zone",
+        "Location": "Beneath right parietal cortex lateral to ventricle",
+        "Intensity_Profile": "Uniformly bright on T1 compared to cortex"
+    },
+    "Left Frontal Lateral Ventricle": {
+        "Shape": "Curved elongated anterior horn",
+        "Location": "Frontal lobe anterior portion of left lateral ventricle",
+        "Intensity_Profile": "CSF cavity dark on T1"
+    },
+    "Left Posterior Lateral Ventricle": {
+        "Shape": "Triangular posterior horn",
+        "Location": "Extends into left occipital lobe",
+        "Intensity_Profile": "CSF cavity dark on T1"
+    },
+    "Left Inferior Lateral Ventricle": {
+        "Shape": "Curved inferior horn",
+        "Location": "Extends into left temporal lobe",
+        "Intensity_Profile": "CSF cavity dark on T1"
+    },
+    "Right Frontal Lateral Ventricle": {
+        "Shape": "Curved elongated anterior horn",
+        "Location": "Frontal lobe anterior portion of right lateral ventricle",
+        "Intensity_Profile": "CSF cavity dark on T1"
+    },
+    "Right Posterior Lateral Ventricle": {
+        "Shape": "Triangular posterior horn",
+        "Location": "Extends into right occipital lobe",
+        "Intensity_Profile": "CSF cavity dark on T1"
+    },
+    "Right Inferior Lateral Ventricle": {
+        "Shape": "Curved inferior horn",
+        "Location": "Extends into right temporal lobe",
+        "Intensity_Profile": "CSF cavity dark on T1"
+    },
+    "Third Ventricle": {
+        "Shape": "Narrow slitlike midline cavity",
+        "Location": "Between left and right thalami",
+        "Intensity_Profile": "CSF cavity dark on T1"
+    },
+    "Left Periventricular Hypothalamic Frontal White Matter": {
+        "Shape": "Compact anterior periventricular bundle",
+        "Location": "Anterior to hypothalamus near left third ventricle wall",
+        "Intensity_Profile": "Bright on T1 relative to gray"
+    },
+    "Right Periventricular Hypothalamic Frontal White Matter": {
+        "Shape": "Compact anterior periventricular bundle",
+        "Location": "Anterior to hypothalamus near right third ventricle wall",
+        "Intensity_Profile": "Bright on T1 relative to gray"
+    },
+    "Left Periventricular Hypothalamic Posterior White Matter": {
+        "Shape": "Dense posterior periventricular bundle",
+        "Location": "Posterior to hypothalamus near left third ventricle wall",
+        "Intensity_Profile": "Bright on T1 relative to gray"
+    },
+    "Right Periventricular Hypothalamic Posterior White Matter": {
+        "Shape": "Dense posterior periventricular bundle",
+        "Location": "Posterior to hypothalamus near right third ventricle wall",
+        "Intensity_Profile": "Bright on T1 relative to gray"
+    },
+    "Left Peripheral Frontal White Matter": {
+        "Shape": "Diffuse subcortical white matter region",
+        "Location": "Beneath left frontal cortex lateral to ventricle",
+        "Intensity_Profile": "Uniformly bright on T1"
+    },
+    "Right Peripheral Frontal White Matter": {
+        "Shape": "Diffuse subcortical white matter region",
+        "Location": "Beneath right frontal cortex lateral to ventricle",
+        "Intensity_Profile": "Uniformly bright on T1"
+    },
+    "Left Peripheral Temporal White Matter": {
+        "Shape": "Subcortical white matter cluster",
+        "Location": "Beneath left temporal cortex inferior to ventricle",
+        "Intensity_Profile": "Uniformly bright on T1"
+    },
+    "Right Peripheral Temporal White Matter": {
+        "Shape": "Subcortical white matter cluster",
+        "Location": "Beneath right temporal cortex inferior to ventricle",
+        "Intensity_Profile": "Uniformly bright on T1"
+    },
+    "Left Peripheral Occipital White Matter": {
+        "Shape": "Subcortical white matter patch",
+        "Location": "Beneath left occipital cortex posterior to ventricle",
+        "Intensity_Profile": "Uniformly bright on T1"
+    },
+    "Right Peripheral Occipital White Matter": {
+        "Shape": "Subcortical white matter patch",
+        "Location": "Beneath right occipital cortex posterior to ventricle",
+        "Intensity_Profile": "Uniformly bright on T1"
+    },
+    "Left Peripheral Limbic White Matter": {
+        "Shape": "Curved subcortical white matter tract",
+        "Location": "Near left cingulate cortex",
+        "Intensity_Profile": "Uniformly bright on T1"
+    },
+    "Right Peripheral Limbic White Matter": {
+        "Shape": "Curved subcortical white matter tract",
+        "Location": "Near right cingulate cortex",
+        "Intensity_Profile": "Uniformly bright on T1"
+    },
+    "Right Cerebellum White Matter": {
+        "Shape": "Branching tree like pattern",
+        "Location": "Within right cerebellar hemisphere",
+        "Intensity_Profile": "Bright on T1 relative to cortex"
+    },
+    "Left Cerebellum White Matter": {
+        "Shape": "Branching tree like pattern",
+        "Location": "Within left cerebellar hemisphere",
+        "Intensity_Profile": "Bright on T1 relative to cortex"
+    },
+    "Fourth Ventricle": {
+        "Shape": "Diamond shaped midline cavity",
+        "Location": "Between dorsal pons and cerebellum extending to medulla",
+        "Intensity_Profile": "CSF dark on T1"
+    },
+    "Left Nucleus Accumbens": {
+        "Shape": "Small ovoid deep gray cluster",
+        "Location": "Anteromedial junction of left caudate head and putamen",
+        "Intensity_Profile": "Deep gray signal similar to striatum on T1"
+    },
+    "Right Nucleus Accumbens": {
+        "Shape": "Small ovoid deep gray cluster",
+        "Location": "Anteromedial junction of right caudate head and putamen",
+        "Intensity_Profile": "Deep gray signal similar to striatum on T1"
+    }    
+}
+

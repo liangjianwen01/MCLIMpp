@@ -1,0 +1,94 @@
+{
+    "Left Cerebral Cortex": {
+        "Shape": "Extensive folded gray mantle with multiple gyri and sulci",
+        "Location": "Left outer layer of cerebral hemisphere",
+        "Intensity_Profile": "Gray matter hypointense to underlying white matter on T1"
+    },
+    "Right Cerebral Cortex": {
+        "Shape": "Extensive folded gray mantle with multiple gyri and sulci",
+        "Location": "Right outer layer of cerebral hemisphere",
+        "Intensity_Profile": "Gray matter hypointense to underlying white matter on T1"
+    },
+    "Left Cerebral Nuclei": {
+        "Shape": "Clustered deep gray nuclei including caudate and lentiform",
+        "Location": "Left deep hemisphere lateral to thalamus",
+        "Intensity_Profile": "Intermediate T1 signal between cortex and white matter"
+    },
+    "Right Cerebral Nuclei": {
+        "Shape": "Clustered deep gray nuclei including caudate and lentiform",
+        "Location": "Right deep hemisphere lateral to thalamus",
+        "Intensity_Profile": "Intermediate T1 signal between cortex and white matter"
+    },
+    "Left Thalamus": {
+        "Shape": "Oval paired relay nucleus",
+        "Location": "Left diencephalon lateral to third ventricle",
+        "Intensity_Profile": "Deep gray slightly hypointense to perithalamic white matter"
+    },
+    "Right Thalamus": {
+        "Shape": "Oval paired relay nucleus",
+        "Location": "Right diencephalon lateral to third ventricle",
+        "Intensity_Profile": "Deep gray slightly hypointense to perithalamic white matter"
+    },
+    "Left Basal Forebrain": {
+        "Shape": "Irregular ventral gray region near septal area",
+        "Location": "Left inferior frontal base anterior to hypothalamus",
+        "Intensity_Profile": "Gray signal similar to striatum hypointense to white matter"
+    },
+    "Right Basal Forebrain": {
+        "Shape": "Irregular ventral gray region near septal area",
+        "Location": "Right inferior frontal base anterior to hypothalamus",
+        "Intensity_Profile": "Gray signal similar to striatum hypointense to white matter"
+    },
+    "Left Mesencephalon": {
+        "Shape": "Compact cylindrical midbrain with peduncles and tectum",
+        "Location": "Left midline brainstem between diencephalon and pons",
+        "Intensity_Profile": "Mixed T1 signal white tracts brighter than gray nuclei"
+    },
+    "Right Mesencephalon": {
+        "Shape": "Compact cylindrical midbrain with peduncles and tectum",
+        "Location": "Right midline brainstem between diencephalon and pons",
+        "Intensity_Profile": "Mixed T1 signal white tracts brighter than gray nuclei"
+    },
+    "Left Metencephalon": {
+        "Shape": "Rounded lobulated cerebellar structure with folia",
+        "Location": "Left posterior fossa dorsal to pons",
+        "Intensity_Profile": "Cerebellar cortex hypointense to internal white matter on T1"
+    },
+    "Right Metencephalon": {
+        "Shape": "Rounded lobulated cerebellar structure with folia",
+        "Location": "Right posterior fossa dorsal to pons",
+        "Intensity_Profile": "Cerebellar cortex hypointense to internal white matter on T1"
+    },
+    "Left Myelencephalon": {
+        "Shape": "Tapered caudal brainstem segment continuous with spinal cord",
+        "Location": "Left medullary region ventral to fourth ventricle",
+        "Intensity_Profile": "Intermediate T1 signal pyramids brighter than gray nuclei"
+    },
+    "Right Myelencephalon": {
+        "Shape": "Tapered caudal brainstem segment continuous with spinal cord",
+        "Location": "Right medullary region ventral to fourth ventricle",
+        "Intensity_Profile": "Intermediate T1 signal pyramids brighter than gray nuclei"
+    },
+    "Left White Matter": {
+        "Shape": "Extensive deep subcortical myelinated fiber system",
+        "Location": "Left hemisphere underlying cortical ribbon",
+        "Intensity_Profile": "Homogeneously hyperintense on T1 relative to gray matter"
+    },
+    "Right White Matter": {
+        "Shape": "Extensive deep subcortical myelinated fiber system",
+        "Location": "Right hemisphere underlying cortical ribbon",
+        "Intensity_Profile": "Homogeneously hyperintense on T1 relative to gray matter"
+    },
+    "Lateral Ventricle": {
+        "Shape": "C shaped bilateral CSF cavity with frontal and temporal horns",
+        "Location": "Deep cerebral hemispheres surrounding caudate and thalamus",
+        "Intensity_Profile": "CSF hypointense on T1 forming smooth cavity margin"
+    },
+    "Third and Fourth Ventricle": {
+        "Shape": "Midline CSF cavities narrow anterior and diamond posterior",
+        "Location": "Third between thalami fourth between pons and cerebellum",
+        "Intensity_Profile": "CSF hypointense on T1 defining ventricular spaces"
+    }
+            
+}
+
