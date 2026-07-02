@@ -4,6 +4,7 @@ This is the code repository for the SSL framework named MCLIM++.
 Run mclimpp.sh for pre-training the neuro network.
 # Data Organization
   ADNI_FOLDER
+  # T1w Only
     Image_ID:
       Rigid_Warped.nii.gz 
       Rigid_Warped_jhu5.nii.gz  
